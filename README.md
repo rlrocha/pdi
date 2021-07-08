@@ -1,4 +1,5 @@
 # Trabalho prático de Processamento Digital de Imagens
+[<img src="https://img.shields.io/badge/author-rlrocha-orange?style=flat-square"/>](https://github.com/rlrocha)
 
 Trabalho prático desenvolvido na disciplina Processamento Digital de Imagens do Programa de Pós-Graduação em Ciência da Computação (PPGCC) da Universidade Federal do Pará (UFPA) em 2020.2.
 
